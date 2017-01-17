@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Description</key>
+    <string>Download the latest version of Unity3D</string>
+    <key>Identifier</key>
+    <string>com.github.gkluoe.autopkg.Unity3D</string>
+    <key>Input</key>
+    <dict>
+        <key>SEARCH_URL</key>
+        <string>https://store.unity.com/download/thank-you?thank-you=personal&os=osx&nid=178</string>
+    <key>ParentRecipe</key>
+    <string>com.github.hansen-m.download.Unity3D</string>
+</dict>
+</plist>
